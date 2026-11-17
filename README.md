@@ -14,6 +14,7 @@ MarktKasse eingebaut und läuft am Stand automatisch auf dem Fernseher (`tv-play
 - Preislisten mit den Preisen der Kasse, darunter Allergene/Zusatzstoffe je Artikel und die Pfandregel
 - Mitgliederfolien so, wie es jedes Mitglied in der Spruch-Auswahl gewählt hat; wer abgelehnt oder nicht geantwortet
   hat, ist ausgeblendet
+- Wetterfolien zeigen das aktuelle Wetter für Werne (Open-Meteo, alle 30 Minuten neu)
 - Keine Umfrage mehr (kein „Fertig – zur Umfrage“-Knopf, kein Anhalten auf der Schlussfolie)
 
 Noch offen: Öffnungszeiten und Gesamtprogramm 2026.
