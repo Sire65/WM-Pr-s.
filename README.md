@@ -12,7 +12,8 @@ MarktKasse eingebaut und läuft am Stand automatisch auf dem Fernseher (`tv-play
 - Neues Rathaus-Bild als Hintergrund aller Folien (`assets/kasse-presentation/backgrounds/rathaus-werne-weihnachtsmarkt-v2.jpg`)
 - Einheitliche Überschriften, Zierelemente und Abstände
 - Preislisten mit den Preisen der Kasse, darunter Allergene/Zusatzstoffe je Artikel und die Pfandregel
-- Mitgliederfolien so, wie es jedes Mitglied in der Spruch-Auswahl gewählt hat; wer abgelehnt oder nicht geantwortet
+- Mannschaftsfolie nur Text („Köcheclub Werne – seit 1991 in Werne“), Mitgliederfolien nur Vorname und gewählter Spruch,
+  ohne Fotos; wer abgelehnt oder nicht geantwortet
   hat, ist ausgeblendet
 - Wetterfolien zeigen das aktuelle Wetter für Werne (Open-Meteo, alle 30 Minuten neu)
 - Keine Umfrage mehr (kein „Fertig – zur Umfrage“-Knopf, kein Anhalten auf der Schlussfolie)
@@ -20,7 +21,7 @@ MarktKasse eingebaut und läuft am Stand automatisch auf dem Fernseher (`tv-play
 Noch offen: Öffnungszeiten und Gesamtprogramm 2026.
 
 Die Datei wird mit `tools/tv-endversion-bauen.cjs` aus dem Kasse-Repository erzeugt. Der Stand der Umfrage ist als Tag
-`umfrage-2026-09` erhalten.
+`umfrage-2026-09` erhalten, die Fassung mit Fotos als Tag `mit-fotos-2026-11-17`.
 
 ## Auf dem Fernseher über iPad
 
