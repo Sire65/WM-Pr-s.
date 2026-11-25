@@ -18,7 +18,15 @@ MarktKasse eingebaut und läuft am Stand automatisch auf dem Fernseher (`tv-play
 - Wetterfolien zeigen das aktuelle Wetter für Werne (Open-Meteo, alle 30 Minuten neu)
 - Keine Umfrage mehr (kein „Fertig – zur Umfrage“-Knopf, kein Anhalten auf der Schlussfolie)
 
-Noch offen: Öffnungszeiten und Gesamtprogramm 2026.
+Stand 25.11.2026 (Endversion · 2026-11-25):
+
+- Neue Speisenfolien „Lust auf Grünkohl?“, „Lust auf Sauerkraut?“ und „Lust auf Kartoffeln?“: links das Gericht mit
+  Mettendchen bzw. Heringsstipp, rechts ohne bzw. mit Kartoffelcreme, darunter Name und Preis aus der Kasse, unten rechts
+  „Serviervorschlag“. Die Fotos sind Freisteller aus den Kassenfotos. Fotos mit Mettendchen in Scheiben und mit Heringsstipp
+  obendrauf folgen noch.
+- Klaus, Reinhilde, Marianne und Karla erscheinen jetzt mit Vorname und Spruch.
+- Nachgezogen aus der Kasse: Preisfolien als Speisekarte, Bühnenprogramm in Spalten, Öffnungszeiten Weihnachtsmarkt
+  und Köcheclub, Annes Spruch.
 
 Die Datei wird mit `tools/tv-endversion-bauen.cjs` aus dem Kasse-Repository erzeugt. Der Stand der Umfrage ist als Tag
 `umfrage-2026-09` erhalten, die Fassung mit Fotos als Tag `mit-fotos-2026-11-17`.
