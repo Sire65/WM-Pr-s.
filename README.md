@@ -22,8 +22,8 @@ Stand 25.11.2026 (Endversion · 2026-11-25):
 
 - Neue Speisenfolien „Lust auf Grünkohl?“, „Lust auf Sauerkraut?“ und „Lust auf Kartoffeln?“: links das Gericht mit
   Mettendchen bzw. Heringsstipp, rechts ohne bzw. mit Kartoffelcreme, darunter Name und Preis aus der Kasse, unten rechts
-  „Serviervorschlag“. Die Fotos sind Freisteller aus den Kassenfotos. Fotos mit Mettendchen in Scheiben und mit Heringsstipp
-  obendrauf folgen noch.
+  „Serviervorschlag“. Die Fotos sind Freisteller: Kassenfotos für Grünkohl und Sauerkraut, ein neues
+  Foto für Kartoffeln mit Heringsstipp.
 - Klaus, Reinhilde, Marianne und Karla erscheinen jetzt mit Vorname und Spruch.
 - Nachgezogen aus der Kasse: Preisfolien als Speisekarte, Bühnenprogramm in Spalten, Öffnungszeiten Weihnachtsmarkt
   und Köcheclub, Annes Spruch.
